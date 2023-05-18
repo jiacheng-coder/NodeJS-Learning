@@ -2,9 +2,9 @@
   "name": "nodejs-learning",
   "version": "1.0.0",
   "description": "Study this server language!",
-  "main": "index.js",
+  "main": "bin/www.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "dev": "nodemon bin/www.js"
   },
   "keywords": [],
   "author": "",
